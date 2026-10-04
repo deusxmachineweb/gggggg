@@ -1,0 +1,7 @@
+{
+  "name": "Vigo City - Roblox Game Dev Suite & Luau Architecture",
+  "description": "Herramienta de arquitectura, generación de scripts Luau y simulador interactivo para Vigo City en Roblox Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
